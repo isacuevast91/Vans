@@ -1,0 +1,309 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>VANS CON CSS INTERNO</title>
+<style>
+body{
+background-color:#8DA485;
+}
+h1{
+color:white;
+font-size:50px;
+text-align:center;
+font-face:times new roman;
+}
+h3{
+color:#C9D1C6;
+font-size:20px;
+text-align:center;
+font-face:optima;
+}
+.izquierda{text-align:left;}
+.derecha{text-align:right;}
+.centro{text-align:center;}
+.talla{color:#7B8A7D;}
+
+
+ul{
+background:#B3BBB0;
+color:#525C4F;
+padding:70px;
+width:100px;
+font-face:garamond;
+}
+h2{
+color:#ABB9AC;
+font-size:25px;
+font-face:garamond;
+}
+.link{text-align:center;}
+.m{color:#DFE5E0}
+
+
+p{
+color:#616D62;
+font-size:30px;
+font-face:cambria;
+text-align:center;
+}
+
+table{
+aling:left;
+width:33%;
+height:500px;
+text-align:center;
+background-color:#A9BCA8;
+border-spacing:1;
+border-color:#687667;
+font-size:20px;
+border-style:solid;
+border:14px;
+}
+
+}
+
+
+</style>
+</head>
+
+<body>
+
+<h1>VANS</h1>
+
+<h3>Vans es una compañía dedicada principalmente a la producción de calzado, aunque 
+también fabrica ropa, como sudaderas y camisetas; fundada por Paul Van Doren en 1966 
+en California. Su principal mercado está en el skateboarding, además de otros deportes
+ urbanos y también extremos.</h3>
+
+<h3 class="izquierda">
+Los hermanos Paul Van Doren y Jim Van Doren juntos con sus socios<br> 
+Gordon Lee Y Serge Delia abren su negocio en la calle 704 E. Broadway<br>
+Anaheim, California, el 16 de marzo de 1966. La Compañía Van Doren Rubber<br>
+única, ya que en el mismo establecimiento fabrica y vende el calzado <br>
+directamente al publico.<br>
+</h3>
+
+
+<h3 class="derecha">
+Ya en los años de 1970, el creador Paul Van Doren y James Van Doren<br>
+entran en la dura competencia de los tenis a nivel profesional creando<br>
+modelos de Vans para baloncesto, béisbol, fútbol americano e incluso<br>
+Lucha libre profesional.<br>
+</h3>
+<h3 class="center">
+Actualmente, Vans ya no produce solo calzado, ha ampliado su catálogo<br>
+a ropa, accesorios e incluso vídeos, donde se explican trucos de skate<br>
+ para los fanáticos de este deporte. Vans cuenta con unas zapatillas <br>
+creadas específicamente para hacer skate.
+</h3>
+
+<ul>
+<hr>
+CALZADOS MÁS VENDIDOS
+<hr>
+<li>Old Skool</li>
+<li>Skate</li>
+<li>Sk8-Hi</li>
+<li>Knu Skool</li>
+<li>UltraRange</li>
+</ul>
+
+
+<a target="_pink" href="https://www.vans.mx/"><h2 class="link">
+Conoce más en su tienda oficial :)</a></h2>
+
+<p>GUIA DE TALLAS</p>>
+
+<table>
+<caption>
+<h2 class="m">MUJERES</h2></caption>
+<tr>
+<td><h3 class="talla">
+US</h3>
+</td>
+<td><h3 class="talla">
+5</h3>
+</td>
+<td><h3 class="talla">
+5.5</h3>
+</td>
+<td><h3 class="talla">
+6</h3>
+</td>
+<td><h3 class="talla">
+6.5</h3>
+</td>
+<td><h3 class="talla">
+7</h3>
+</td>
+<td><h3 class="talla">
+7.5</h3>
+</td>
+<td><h3 class="talla">
+8</h3>
+</td>
+<td><h3 class="talla">
+8.5</h3>
+</td>
+</tr>
+<tr>
+<td><h3 class="talla">
+UK</h3>
+</td>
+<td><h3 class="talla">
+3.5</h3>
+</td>
+<td><h3 class="talla">
+4</h3>
+</td>
+<td><h3 class="talla">
+4.5</h3>
+</td>
+<td><h3 class="talla">
+5</h3>
+</td>
+<td><h3 class="talla">
+5.5</h3>
+</td>
+<td><h3 class="talla">
+6</h3>
+</td>
+<td ><h3 class="talla">
+6.5</h3>
+</td>
+<td><h3 class="talla">
+7</h3>
+</td>
+</tr>
+<tr>
+<td><h3 class="talla">
+CM</h3>
+</td>
+<td><h3 class="talla">
+22.75</h3>
+</td>
+<td><h3 class="talla">
+23</h3>
+</td>
+<td><h3 class="talla">
+23.5</h3>
+</td>
+<td><h3 class="talla">
+24</h3>
+</td>
+<td><h3 class="talla">
+24.5</h3>
+</td>
+<td ><h3 class="talla">
+25</h3>
+</td>
+<td><h3 class="talla">
+25.5</h3>
+</td>
+<td><h3 class="talla">
+25.75</h3>
+</td>
+</tr>
+</table>
+
+
+
+<table align=right>
+<caption>
+<h2 class="m">MUJERES</h2></caption>
+<tr>
+<td><h3 class="talla">
+US</h3>
+</td>
+<td><h3 class="talla">
+5</h3>
+</td>
+<td><h3 class="talla">
+5.5</h3>
+</td>
+<td><h3 class="talla">
+6</h3>
+</td>
+<td><h3 class="talla">
+6.5</h3>
+</td>
+<td><h3 class="talla">
+7</h3>
+</td>
+<td><h3 class="talla">
+7.5</h3>
+</td>
+<td><h3 class="talla">
+8</h3>
+</td>
+<td><h3 class="talla">
+8.5</h3>
+</td>
+</tr>
+<tr>
+<td><h3 class="talla">
+UK</h3>
+</td>
+<td><h3 class="talla">
+3.5</h3>
+</td>
+<td><h3 class="talla">
+4</h3>
+</td>
+<td><h3 class="talla">
+4.5</h3>
+</td>
+<td><h3 class="talla">
+5</h3>
+</td>
+<td><h3 class="talla">
+5.5</h3>
+</td>
+<td><h3 class="talla">
+6</h3>
+</td>
+<td ><h3 class="talla">
+6.5</h3>
+</td>
+<td><h3 class="talla">
+7</h3>
+</td>
+</tr>
+<tr>
+<td><h3 class="talla">
+CM</h3>
+</td>
+<td><h3 class="talla">
+22.75</h3>
+</td>
+<td><h3 class="talla">
+23</h3>
+</td>
+<td><h3 class="talla">
+23.5</h3>
+</td>
+<td><h3 class="talla">
+24</h3>
+</td>
+<td><h3 class="talla">
+24.5</h3>
+</td>
+<td ><h3 class="talla">
+25</h3>
+</td>
+<td><h3 class="talla">
+25.5</h3>
+</td>
+<td><h3 class="talla">
+25.75</h3>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+</body>
+</html>
